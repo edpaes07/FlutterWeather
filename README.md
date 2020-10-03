@@ -1,4 +1,4 @@
-# curso_flutter
+# flutter_weather
 
 A new Flutter project.
 
